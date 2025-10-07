@@ -10,6 +10,13 @@
 - [HTML5, CSS3, Bootstrap, React.js, Next.js, Node.js, REST APIs]
 - [MySQL, SQL Server, Firebase]
 
+## Experiencia Laboral
+
+### [Nombre de la Empresa 1]
+**Cargo:** [Programador]  
+**Periodo:** [2021-2025]  
+**Descripción:** Trabaje como programador y webmaster ofreciendo soluciones de aplicaciones web y de escritorio para diferentes departamentos de la institucion.
+
 ## Contacto
 - Email: [filmstrebor@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/robert-genao-molina-218397126/]
