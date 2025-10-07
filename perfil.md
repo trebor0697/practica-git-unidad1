@@ -22,8 +22,6 @@
 **Periodo:** [2024 - 2025]  
 **Descripción:** Trabajo como FrontEnd Developer en la empresa GLobalsolutions tambien doy soporte en la integracion de modulos nuevos que se requieran y demas soluciones.
 
-
-
 ## Contacto
 - Email: [filmstrebor@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/robert-genao-molina-218397126/]
