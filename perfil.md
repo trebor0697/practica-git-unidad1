@@ -19,6 +19,10 @@
 Conocimientos de enrutamiento y conmutación de Cisco Networking
 Academy.
 
+### [Cursos y Certificaciones]
+- [DBA MASTER] - [Fund. Carlos Slim] ([2019])
+- [Todo sobre JS y web dev] - [ICoursera] ([2020])
+
 
 ## Contacto
 - Email: [filmstrebor@gmail.com]
